@@ -1,4 +1,6 @@
 # order-vue
+网上点餐系统（毕设）
+联系：sangni3.cn
 点餐前台
 后台：https://github.com/sangni3/order
 
